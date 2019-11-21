@@ -14,6 +14,6 @@ def link
 end
 
 def any_phrase (phrase)
-  phrase = "It's Dangerous To Go Alone! Take This."
-  puts link_says
+  phrase = "Do A Barrel Roll!\n"
+  phrase
 end
